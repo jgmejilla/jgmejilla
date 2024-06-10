@@ -1,8 +1,8 @@
-# 🌱 Hey, I'm Elijah. 
+# 🌱 Hey, I'm Elijah.
 
 I'm a 3rd year Computer Science 💻 undergraduate studying at the University of the Philippines – Diliman. 
 
-Lately, I've been dabbling in Data Science and Web Development. I aim to leverage these interests into **meaningful projects** that, hopefully, would tackle real-world problems.
+Lately, I've been dabbling in Data Science and Web Development. I aim to leverage these interests into **meaningful projects** that would, hopefully, tackle real-world problems.
 
 
 ## 🔭 Showcase
@@ -11,6 +11,11 @@ Lately, I've been dabbling in Data Science and Web Development. I aim to leverag
 - 🌐 A [reddit client](https://github.com/UPD-CS-12/cs12222project-maca-mejilla) built using Flutter-based Python libraries.
 - 🧸 A [self-care web application](https://github.com/compsat/bh24-based-template) made for a Hackathon. 
 
-## 🐈‍⬛ Platforms
+## 📫 Platforms
 > Connect with me!
-- 📧 Email: jgmejilla@up.edu.ph  
+- 📧 Email: jgmejilla@up.edu.ph
+
+## 🐈‍⬛ Cat
+> Here is a picture of my cat, because every `README` should have one.
+
+![blorange :-)](blorange.png)
