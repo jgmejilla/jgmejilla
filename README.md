@@ -2,7 +2,7 @@
 
 I'm a 3rd year Computer Science 💻 undergraduate studying at the University of the Philippines – Diliman. 
 
-Lately, I've been dabbling in Data Science and Web Development. I aim to leverage these interests into **meaningful projects** that would, hopefully, tackle real-world problems.
+Lately, I've been dabbling in Data Science and Web Development—I aim to leverage these interests into **meaningful projects** that would, hopefully, tackle real-world problems.
 
 
 ## 🔭 Showcase
