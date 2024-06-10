@@ -19,3 +19,5 @@ Lately, I've been dabbling in Data Science and Web Development. I aim to leverag
 > Here is a picture of my cat, because every `README` should have one.
 
 ![blorange :-)](blorange.png)
+
+Her name is Blorange :-)
