@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🌱 Hey, I'm Elijah. 
 
-<!--
-**jgmejilla/jgmejilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a 3rd year Computer Science undergraduate studying at the University of the Philippines – Diliman. 
 
-Here are some ideas to get you started:
+Lately, I've been dabbling in Data Science 📊 and Web Development, and I aim to leverage these interests into **meaningful projects** that tackle 🗺️ *real-world*  problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔭 Showcase
+> Here are some projects I've worked on! 
+- 📈 This [data science project](https://tes-birth-rate.vercel.app) on the relationship between *poverty* and *parenting*.
+- 🌐 A [reddit client](https://github.com/UPD-CS-12/cs12222project-maca-mejilla) built using Flutter-based Python libraries.
+- 🧸 A [self-care web application](https://github.com/compsat/bh24-based-template) made for a Hackathon. 
+
+## Platforms
+> Connect with me!
+- 📧 Email: jgmejilla@up.edu.ph  
