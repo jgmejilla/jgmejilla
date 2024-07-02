@@ -16,7 +16,7 @@ Lately, I've been dabbling in Data Science and Web Development—I aim to levera
 - 📧 Email: jgmejilla@up.edu.ph
 
 ## 🐈‍⬛ Cat
-> Here is a picture of my cat, because *every* `README` should have one.
+> Here is a picture of my cat.
 
 ![blorange :-)](blorange.png)
 
