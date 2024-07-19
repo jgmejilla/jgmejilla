@@ -2,9 +2,6 @@
 
 I'm a 3rd year Computer Science 💻 undergraduate studying at the University of the Philippines – Diliman. 
 
-Lately, I've been dabbling in Data Science and Web Development—I aim to leverage these interests into **meaningful projects** that would, hopefully, tackle real-world problems.
-
-
 ## 🔭 Showcase
 > Here are some projects I've worked on! 
 - 📈 This [data science project](https://tes-birth-rate.vercel.app) on the relationship between *poverty* and *parenting*.
