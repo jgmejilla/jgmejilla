@@ -1,6 +1,6 @@
 # 🌱 Hey, I'm Elijah.
 
-I'm a 3rd year Computer Science undergraduate studying at the University of the Philippines – Diliman. 
+I'm a 4th year Computer Science undergraduate studying at the University of the Philippines – Diliman. 
 
 ## 🔭 Showcase
 > Here are some projects I've worked on! 
